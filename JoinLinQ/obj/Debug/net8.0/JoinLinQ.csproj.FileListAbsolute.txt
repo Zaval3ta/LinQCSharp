@@ -1,0 +1,14 @@
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\bin\Debug\net8.0\JoinLinQ.exe
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\bin\Debug\net8.0\JoinLinQ.deps.json
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\bin\Debug\net8.0\JoinLinQ.runtimeconfig.json
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\bin\Debug\net8.0\JoinLinQ.dll
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\bin\Debug\net8.0\JoinLinQ.pdb
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\obj\Debug\net8.0\JoinLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\obj\Debug\net8.0\JoinLinQ.AssemblyInfoInputs.cache
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\obj\Debug\net8.0\JoinLinQ.AssemblyInfo.cs
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\obj\Debug\net8.0\JoinLinQ.csproj.CoreCompileInputs.cache
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\obj\Debug\net8.0\JoinLinQ.dll
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\obj\Debug\net8.0\refint\JoinLinQ.dll
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\obj\Debug\net8.0\JoinLinQ.pdb
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\obj\Debug\net8.0\JoinLinQ.genruntimeconfig.cache
+C:\Users\Zaval3ta\Desktop\LinQ\JoinLinQ\obj\Debug\net8.0\ref\JoinLinQ.dll
